@@ -1,7 +1,7 @@
 # Scrimba_React_Movie_Search
 
 ## Summary
-My code for the Movie Search App course on [Scrimba]
+My code for the Movie Search App course on [Scrimba](https://scrimba.com)
 
 
 ## Languages/Framework Used
@@ -9,5 +9,6 @@ My code for the Movie Search App course on [Scrimba]
 - CSS
 - JavaScript
 - React
+
 
 ## ToDo
